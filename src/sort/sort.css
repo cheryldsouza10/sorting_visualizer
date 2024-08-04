@@ -1,0 +1,38 @@
+.container{
+    position: absolute;
+    /* display: inline-block;  */
+    left: 110px;
+    bottom: 50px;
+    top: 50px; 
+}
+
+.sortBars{
+    display: inline;
+}
+
+.bars{
+    width: 4px;
+    background-color: yellowgreen;
+    display: inline-block;
+    margin: 0 1px;
+    /* -webkit-transform: scaleX(-1); */
+    transform: scaleX(-1); 
+}
+
+.bars2{
+    width: 4px;
+    background-color: yellowgreen;
+    display: inline-block;
+    margin: 0 1px;
+    /* -webkit-transform: scaleX(-1); */
+    transform: scaleX(-1);
+}
+
+.bars3{
+    width: 4px;
+    background-color: yellowgreen;
+    display: inline-block;
+    margin: 0 1px;
+    /* -webkit-transform: scaleX(-1); */
+    transform: scaleX(-1);
+}
